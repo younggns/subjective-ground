@@ -1,2 +1,2 @@
 # subjective-ground
-Towards Explaining Subjective Ground of Individuals on Social Media
+Towards Explaining Subjective Ground of Individuals on Social Media.

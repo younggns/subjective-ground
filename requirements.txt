@@ -1,0 +1,5 @@
+wget
+praw
+requests
+json
+sentence-transformers
